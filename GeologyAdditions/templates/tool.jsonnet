@@ -95,8 +95,8 @@ local itemtypes = import 'itemtypes.libsonnet';
                 ]
                 + itemtypes.add_stone_knife_patch('diorite', 90, 1, 0.75)
                 + itemtypes.add_stone_knife_patch('gabbro', 90, 1, 0.75)
-                 + itemtypes.add_stone_knife_patch('jade', 120, 1.2, 0.9)
-                  + itemtypes.add_stone_knife_patch('jasper', 120, 1.2, 0.9)
+                + itemtypes.add_stone_knife_patch('jade', 120, 1.2, 0.9)
+                + itemtypes.add_stone_knife_patch('jasper', 120, 1.2, 0.9)
                 + itemtypes.add_stone_knife_patch('quartzite', 120, 1.2, 0.9),
   'hoe.json': [
                 {

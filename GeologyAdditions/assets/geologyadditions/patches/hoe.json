@@ -77,6 +77,12 @@
       }
    },
    {
+      "file": "game:recipes/knapping/stone-hoe.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "diorite"
+   },
+   {
       "file": "game:itemtypes/tool/hoe.json",
       "op": "addmerge",
       "path": "/variantgroups/0/states/-",
@@ -131,6 +137,12 @@
             "base": "block/transparent"
          }
       }
+   },
+   {
+      "file": "game:recipes/knapping/stone-hoe.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "gabbro"
    },
    {
       "file": "game:itemtypes/tool/hoe.json",
@@ -189,6 +201,12 @@
       }
    },
    {
+      "file": "game:recipes/knapping/stone-hoe.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "jade"
+   },
+   {
       "file": "game:itemtypes/tool/hoe.json",
       "op": "addmerge",
       "path": "/variantgroups/0/states/-",
@@ -245,6 +263,12 @@
       }
    },
    {
+      "file": "game:recipes/knapping/stone-hoe.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "jasper"
+   },
+   {
       "file": "game:itemtypes/tool/hoe.json",
       "op": "addmerge",
       "path": "/variantgroups/0/states/-",
@@ -299,5 +323,11 @@
             "base": "block/transparent"
          }
       }
+   },
+   {
+      "file": "game:recipes/knapping/stone-hoe.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "quartzite"
    }
 ]

@@ -141,6 +141,12 @@
       "value": "diorite"
    },
    {
+      "file": "game:recipes/knapping/stone-spear.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "diorite"
+   },
+   {
       "file": "game:itemtypes/tool/spear.json",
       "op": "addmerge",
       "path": "/variantgroups/1/states/-",
@@ -232,6 +238,12 @@
       "file": "game:recipes/grid/tool/spear.json",
       "op": "addmerge",
       "path": "/ingredients/T/allowedVariants/-",
+      "value": "gabbro"
+   },
+   {
+      "file": "game:recipes/knapping/stone-spear.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
       "value": "gabbro"
    },
    {
@@ -329,6 +341,12 @@
       "value": "jade"
    },
    {
+      "file": "game:recipes/knapping/stone-spear.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "jade"
+   },
+   {
       "file": "game:itemtypes/tool/spear.json",
       "op": "addmerge",
       "path": "/variantgroups/1/states/-",
@@ -423,6 +441,12 @@
       "value": "jasper"
    },
    {
+      "file": "game:recipes/knapping/stone-spear.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "jasper"
+   },
+   {
       "file": "game:itemtypes/tool/spear.json",
       "op": "addmerge",
       "path": "/variantgroups/1/states/-",
@@ -514,6 +538,12 @@
       "file": "game:recipes/grid/tool/spear.json",
       "op": "addmerge",
       "path": "/ingredients/T/allowedVariants/-",
+      "value": "quartzite"
+   },
+   {
+      "file": "game:recipes/knapping/stone-spear.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
       "value": "quartzite"
    }
 ]

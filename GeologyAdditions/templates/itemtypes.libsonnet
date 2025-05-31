@@ -173,6 +173,12 @@
         value: stone_type,
         file: 'game:recipes/knapping/stone-knife.json',
       },
+      {
+        op: 'add',
+        path: '/ingredient/allowedVariants/-',
+        value: stone_type,
+        file: 'game:recipes/knapping/stone-knife.json',
+      },
     ],
   add_stone_hoe_patch(stone_type, durability, mining_speed, attack_power)::
     [
@@ -223,6 +229,12 @@
           handle: { base: 'block/transparent' },
         },
         file: 'game:itemtypes/toolhead/hoehead.json',
+      },
+      {
+        op: 'add',
+        path: '/ingredient/allowedVariants/-',
+        value: stone_type,
+        file: 'game:recipes/knapping/stone-hoe.json',
       },
     ],
   add_stone_shovel_patch(stone_type, durability, attack_power)::
@@ -285,6 +297,12 @@
           handle: { base: 'block/transparent' },
         },
         file: 'game:itemtypes/toolhead/shovelhead.json',
+      },
+      {
+        op: 'add',
+        path: '/ingredient/allowedVariants/-',
+        value: stone_type,
+        file: 'game:recipes/knapping/stone-shovel.json',
       },
     ],
   add_stone_spear_patch(stone_type, durability, attack_power, thrown_damage)::
@@ -368,6 +386,12 @@
         path: '/ingredients/T/allowedVariants/-',
         value: stone_type,
         file: 'game:recipes/grid/tool/spear.json',
+      },
+      {
+        op: 'add',
+        path: '/ingredient/allowedVariants/-',
+        value: stone_type,
+        file: 'game:recipes/knapping/stone-spear.json',
       },
     ],
 }

@@ -188,6 +188,12 @@
       "value": "diorite"
    },
    {
+      "file": "game:recipes/knapping/stone-knife.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "diorite"
+   },
+   {
       "file": "game:itemtypes/tool/knife.json",
       "op": "addmerge",
       "path": "/variantgroups/1/states/-",
@@ -296,6 +302,12 @@
          },
          "width": 1
       }
+   },
+   {
+      "file": "game:recipes/knapping/stone-knife.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "gabbro"
    },
    {
       "file": "game:recipes/knapping/stone-knife.json",
@@ -420,6 +432,12 @@
       "value": "jade"
    },
    {
+      "file": "game:recipes/knapping/stone-knife.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "jade"
+   },
+   {
       "file": "game:itemtypes/tool/knife.json",
       "op": "addmerge",
       "path": "/variantgroups/1/states/-",
@@ -536,6 +554,12 @@
       "value": "jasper"
    },
    {
+      "file": "game:recipes/knapping/stone-knife.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "jasper"
+   },
+   {
       "file": "game:itemtypes/tool/knife.json",
       "op": "addmerge",
       "path": "/variantgroups/1/states/-",
@@ -644,6 +668,12 @@
          },
          "width": 1
       }
+   },
+   {
+      "file": "game:recipes/knapping/stone-knife.json",
+      "op": "add",
+      "path": "/ingredient/allowedVariants/-",
+      "value": "quartzite"
    },
    {
       "file": "game:recipes/knapping/stone-knife.json",

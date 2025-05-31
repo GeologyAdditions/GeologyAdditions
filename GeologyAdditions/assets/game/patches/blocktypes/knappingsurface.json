@@ -22,5 +22,21 @@
       "base": "block/stone/rock/quartzite1"
     },
     "file": "game:blocktypes/stone/knappingsurface.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/jade",
+    "value": {
+      "base": "block/stone/rock/jade1"
+    },
+    "file": "game:blocktypes/stone/knappingsurface.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/jasper",
+    "value": {
+      "base": "block/stone/rock/jasper1"
+    },
+    "file": "game:blocktypes/stone/knappingsurface.json"
   }
 ]

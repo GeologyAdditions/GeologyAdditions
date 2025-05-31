@@ -32,7 +32,28 @@
     },
     "file": "game:itemtypes/resource/stone.json"
   },
-
+  {
+    "op": "add",
+    "path": "/attributesByType/stone-jasper",
+    "value": {
+      "knappable": true,
+      "reinforcementStrength": 50,
+      "displaycaseable": true,
+      "shelvable": true
+    },
+    "file": "game:itemtypes/resource/stone.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/stone-jade",
+    "value": {
+      "knappable": true,
+      "reinforcementStrength": 50,
+      "displaycaseable": true,
+      "shelvable": true
+    },
+    "file": "game:itemtypes/resource/stone.json"
+  },
   {
     "op": "add",
     "path": "/attributesByType/stone-dolostone",
@@ -50,7 +71,6 @@
     },
     "file": "game:itemtypes/resource/stone.json"
   },
-
   {
     "op": "add",
     "path": "/attributesByType/stone-mudstone",
@@ -68,7 +88,6 @@
     },
     "file": "game:itemtypes/resource/stone.json"
   },
-
   {
     "op": "add",
     "path": "/crushingPropsByType/*-quartzite",
@@ -107,8 +126,6 @@
     },
     "file": "game:itemtypes/resource/stone.json"
   },
-
-
   {
     "file": "game:itemtypes/resource/stone.json",
     "op": "move",
